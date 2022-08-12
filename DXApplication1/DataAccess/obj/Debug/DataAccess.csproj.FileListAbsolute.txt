@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\Entities.dll
+C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\Entities.pdb
+C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

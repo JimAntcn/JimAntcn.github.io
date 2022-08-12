@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\DXApplication1\DataAcess\obj\Debug\DataAcess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DXApplication1\DataAcess\obj\Debug\DataAcess.Properties.Resources.resources
+C:\Users\User\source\repos\DXApplication1\DataAcess\obj\Debug\DataAcess.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DXApplication1\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
