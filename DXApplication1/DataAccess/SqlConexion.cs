@@ -11,7 +11,8 @@ namespace DataAccess
    public class SqlConexion
     {
 
-        public static readonly SqlConnection con = new SqlConnection("Data Source =DKRS\\SQLEXPRESS; Initial Catalog = TEST;Integrated Security=SSPI;MultipleActiveResultSets=True");
+        //public static readonly SqlConnection con = new SqlConnection("Data Source =DKRS\\SQLEXPRESS; Initial Catalog = TEST;Integrated Security=SSPI;MultipleActiveResultSets=True");
+        public static readonly SqlConnection con = new SqlConnection("Data Source = DKRS\\SQLEXPRESS; User ID = Test; Password = Antihorario_24;Initial Catalog = TEST");
         public static SqlConnection AbrirConexion()
         {
             try
