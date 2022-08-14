@@ -4,3 +4,9 @@ C:\Users\User\source\repos\DXApplication1\Entities\obj\Debug\Entities.csproj.Ass
 C:\Users\User\source\repos\DXApplication1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DXApplication1\Entities\obj\Debug\Entities.dll
 C:\Users\User\source\repos\DXApplication1\Entities\obj\Debug\Entities.pdb
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\bin\Debug\Entities.dll
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\bin\Debug\Entities.pdb
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\obj\Debug\Entities.dll
+E:\Github\JimAntcn.github.io\DXApplication1\Entities\obj\Debug\Entities.pdb

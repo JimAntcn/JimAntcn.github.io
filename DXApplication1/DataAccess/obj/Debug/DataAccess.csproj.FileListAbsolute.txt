@@ -7,3 +7,12 @@ C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj
 C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\Entities.dll
 C:\Users\User\source\repos\DXApplication1\DataAccess\bin\Debug\Entities.pdb
 C:\Users\User\source\repos\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\bin\Debug\DataAccess.dll
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\bin\Debug\DataAccess.pdb
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\bin\Debug\Entities.dll
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\bin\Debug\Entities.pdb
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\obj\Debug\DataAccess.dll
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\obj\Debug\DataAccess.pdb
+E:\Github\JimAntcn.github.io\DXApplication1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
